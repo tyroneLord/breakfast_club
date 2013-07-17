@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  fname: MyText
+  lname: MyText
+  breakfast_day: 2013-07-17
+
+two:
+  fname: MyText
+  lname: MyText
+  breakfast_day: 2013-07-17
